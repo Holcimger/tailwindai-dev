@@ -1,0 +1,5 @@
+.corporate_border {
+  display: block;
+  height: 10px;
+  background: linear-gradient(to right, #94c12e, #04bbf1, #1d4370);
+}
